@@ -1,0 +1,10 @@
+Boran;195
+Hakan;137
+eren;130
+Player;129
+Ali;127
+Ahmet;123
+Baran;120
+Alya;100
+Seren;95
+Ahsen;92
